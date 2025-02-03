@@ -27,16 +27,11 @@
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ### 🤖 Data Science & Machine Learning:
-| Tool            | Logo |
-|----------------|------|
-| **TensorFlow** | <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="50"/> |
-| **Keras** | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="50"/> |
-| **Pandas** | <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="50"/> |
-| **NumPy** | <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="50"/> |
-| **Matplotlib** | <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="50"/> |
-| **Seaborn** | <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="100"/> |
-| **Scikit-Learn** | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50"/> |
-| **Power BI** | <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="50"/> |
+<h2 align="left">🤖 Data Science & Machine Learning:</h2>
+<p align="left">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=tensorflow,keras,pandas,numpy,matplotlib,seaborn,scikit-learn,powerbi&titles=true" alt="Data Science & Machine Learning">
+</p>
+
 
 ### 🌐 Web Development:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
