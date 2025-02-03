@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Baihela Hussain!
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=F7A91B&width=435&lines=Hello,+I+am+BaihelaHussain!;I+love+coding+and+AI.;Welcome+to+my+GitHub+Profile!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=F7A91B&width=435&lines=Hello,+I+am+Baihela+Hussain!;I+love+coding+and+AI.;Welcome+to+my+GitHub+Profile!)
 
 ## 🛠️ Tech Stack
 
