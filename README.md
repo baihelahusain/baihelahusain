@@ -18,18 +18,17 @@
 
 <h2 align="left">🛠️ Tools & Frameworks:</h2>
 <p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=git,vscode,jupyter,googlecolab&titles=true" alt="Tools & Frameworks">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=git,vscode,jupyter,docker&titles=true" alt="Tools & Frameworks">
 </p>
 
 <h2 align="left">☁️ Cloud Platforms:</h2>
 <p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=aws,googlecloud,azure,salesforce&titles=true" alt="Cloud Platforms">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,salesforce&titles=true" alt="Cloud Platforms">
 </p>
-
 
 <h2 align="left">🤖 Data Science & Machine Learning:</h2>
 <p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=tensorflow,numpy,matplotlib,seaborn,scikit-learn,powerbi&titles=true" alt="Data Science & Machine Learning">
+  <img src="https://skillicons.dev/icons?i=tensorflow,numpy,matplotlib,pandas,seaborn,scikit,powerbi&titles=true" alt="Data Science & Machine Learning">
 </p>
 
 <h2 align="left">🌐 Web Development:</h2>
