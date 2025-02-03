@@ -7,7 +7,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Krushnal121/Krushnal121/output/github-contribution-grid-snake.svg" width=100%>
 </picture>
 
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=baihelahusain&theme=react-dark)
+![Wave](https://raw.githubusercontent.com/baihelahusain/YourRepo/main/wave.svg)
 
 ## 🛠️ Tech Stack
 
