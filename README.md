@@ -7,6 +7,8 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Krushnal121/Krushnal121/output/github-contribution-grid-snake.svg" width=100%>
 </picture>
 
+![Wave](https://raw.githubusercontent.com/baihelahusain/baihelahusain/main/wave.svg)
+
 ## 🛠️ Tech Stack
 
 <h2 align="left">👨‍💻 Programming Languages:</h2>
@@ -49,10 +51,11 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/baihela-hussain)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto-baihelahusain@gmail.com)
 
+
+
 ## 👀 Visitor Count:
 ![Profile Views](https://komarev.com/ghpvc/?username=baihelahusain&color=blue&style=flat-square)
 👋
-![Wave](https://raw.githubusercontent.com/baihelahusain/YourRepo/main/wave.svg)
 
 
 <!--
