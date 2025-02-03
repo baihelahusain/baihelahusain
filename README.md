@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Baihela Hussain!
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=F7A91B&width=435&lines=Welcome+to+my+GitHub+Profile!;Code+to+make+the+solution+for+life;I+love+coding+and+AI.;)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=F7A91B&width=435&lines=Welcome+to+my+GitHub+Profile!;I+love+coding+and+AI.;)
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Krushnal121/Krushnal121/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Krushnal121/Krushnal121/output/github-contribution-grid-snake.svg">
