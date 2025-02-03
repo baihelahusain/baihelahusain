@@ -29,7 +29,7 @@
 ### 🤖 Data Science & Machine Learning:
 <h2 align="left">🤖 Data Science & Machine Learning:</h2>
 <p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=tensorflow,keras,pandas,numpy,matplotlib,seaborn,scikit-learn,powerbi&titles=true" alt="Data Science & Machine Learning">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=tensorflow,keras,numpy,matplotlib,seaborn,scikit-learn,powerbi&titles=true" alt="Data Science & Machine Learning">
 </p>
 
 
