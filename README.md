@@ -6,9 +6,8 @@
 
 <h2 align="left">👨‍💻 Programming Languages:</h2>
 <p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,javascript,CPP&titles=true" alt="Programming Languages">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,javascript,cpp&titles=true" alt="Programming Languages">
 </p>
-
 
 
 <h2 align="left">💾 Databases:</h2>
