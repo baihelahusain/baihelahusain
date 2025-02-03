@@ -7,7 +7,6 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Krushnal121/Krushnal121/output/github-contribution-grid-snake.svg" width=100%>
 </picture>
 
-![Wave](https://raw.githubusercontent.com/baihelahusain/baihelahusain/main/wave.svg)
 
 ## 🛠️ Tech Stack
 
