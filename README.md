@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Baihela Hussain!
-![Banner](https://raw.githubusercontent.com/baihelahusain/baihelahusain/main/banner.gif)
+![Banner](https://raw.githubusercontent.com/baihelahussain/baihelahussain/main/banner.gif)
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=F7A91B&width=435&lines=Welcome+to+my+GitHub+Profile!;I+love+coding+and+AI.;)
 <picture>
