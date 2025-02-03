@@ -28,7 +28,7 @@
 
 <h2 align="left">🤖 Data Science & Machine Learning:</h2>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=tensorflow,numpy,matplotlib,pandas,seaborn,scikit,powerbi&titles=true" alt="Data Science & Machine Learning">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=tensorflow,numpy,matplotlib,pandas,seaborn,scikit&titles=true" alt="Data Science & Machine Learning">
 </p>
 
 <h2 align="left">🌐 Web Development:</h2>
