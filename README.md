@@ -20,7 +20,7 @@
 
 <h2 align="left">🛠️ Tools & Frameworks:</h2>
 <p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=git,docker,visualstudiocode,jupyter,googlecolab&titles=true" alt="Tools & Frameworks">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=git,vscode,jupyter,googlecolab&titles=true" alt="Tools & Frameworks">
 </p>
 
 <h2 align="left">☁️ Cloud Platforms:</h2>
