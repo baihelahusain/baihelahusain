@@ -1,4 +1,5 @@
 ## Hi there 👋 I'm Baihela Hussain!
+![Profile Views](https://komarev.com/ghpvc/?username=baihelahusain&color=blue&style=flat-square)
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=F7A91B&width=435&lines=Welcome+to+my+GitHub+Profile!;I+love+coding+and+AI.;)
 <picture>
@@ -6,7 +7,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Krushnal121/Krushnal121/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Krushnal121/Krushnal121/output/github-contribution-grid-snake.svg" width=100%>
 </picture>
-![Trophies](https://github-profile-trophy.vercel.app/?username=baihelahusain&theme=onedark)
+
 ## 🛠️ Tech Stack
 
 <h2 align="left">👨‍💻 Programming Languages:</h2>
