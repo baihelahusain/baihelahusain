@@ -7,7 +7,7 @@
 <h2 align="left">👨‍💻 Programming Languages:</h2>
 <p align="left">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=python,javascript&titles=true" alt="Programming Languages">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language_logo.svg" width="50" alt="C++"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/C%2B%2B_logo.svg" width="50" alt="C++"/>
 </p>
 
 
