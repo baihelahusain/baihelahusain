@@ -1,4 +1,5 @@
 ## Hi there 👋 I'm Baihela Hussain!
+![Banner](https://raw.githubusercontent.com/baihelahusain/baihelahusain/main/banner.gif)
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=F7A91B&width=435&lines=Welcome+to+my+GitHub+Profile!;I+love+coding+and+AI.;)
 <picture>
@@ -49,7 +50,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/baihela-hussain)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto-baihelahusain@gmail.com)
 
-![Calendar](https://ghchart.rshah.org/baihelahusain)
 ## 👀 Visitor Count:
 ![Visitor Count](https://komarev.com/ghpvc/?username=YourUsername&color=blue)
 👋
