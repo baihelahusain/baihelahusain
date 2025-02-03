@@ -4,46 +4,42 @@
 
 ## 🛠️ Tech Stack
 
-### 🚀 Programming Languages:
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<h2 align="left">👨‍💻 Programming Languages:</h2>
+<p align="left">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,c++,javascrip&titles=true" alt="Programming Languages">
+</p>
 
-### 🗄️ Databases:
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 🛠️ Tools & Frameworks:
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<h2 align="left">💾 Databases:</h2>
+<p align="left">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,postgres,sqlite,mongodb,oracle&titles=true" alt="Databases">
+</p>
 
-### ☁️ Cloud Platforms:
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-### 🤖 Data Science & Machine Learning:
+<h2 align="left">🛠️ Tools & Frameworks:</h2>
+<p align="left">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=git,docker,visualstudiocode,jupyter,googlecolab&titles=true" alt="Tools & Frameworks">
+</p>
+
+<h2 align="left">☁️ Cloud Platforms:</h2>
+<p align="left">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=aws,googlecloud,azure,salesforce&titles=true" alt="Cloud Platforms">
+</p>
+
+
 <h2 align="left">🤖 Data Science & Machine Learning:</h2>
 <p align="left">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=tensorflow,numpy,matplotlib,seaborn,scikit-learn,powerbi&titles=true" alt="Data Science & Machine Learning">
 </p>
 
-
-### 🌐 Web Development:
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+<h2 align="left">🌐 Web Development:</h2>
+<p align="left">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,bootstrap,django,flask&titles=true" alt="Web Development">
+</p>
 
 ## 📊 GitHub Stats:
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
-
-## 🐍 Contribution Snake:
-![snake gif](https://github.com/YourUsername/YourUsername/blob/output/github-contribution-grid-snake.svg)
 
 ## 🔗 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/baihela-hussain)
