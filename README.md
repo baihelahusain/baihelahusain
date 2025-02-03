@@ -7,8 +7,6 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Krushnal121/Krushnal121/output/github-contribution-grid-snake.svg" width=100%>
 </picture>
 
-![Wave](https://raw.githubusercontent.com/baihelahusain/YourRepo/main/wave.svg)
-
 ## 🛠️ Tech Stack
 
 <h2 align="left">👨‍💻 Programming Languages:</h2>
@@ -54,6 +52,8 @@
 ## 👀 Visitor Count:
 ![Profile Views](https://komarev.com/ghpvc/?username=baihelahusain&color=blue&style=flat-square)
 👋
+![Wave](https://raw.githubusercontent.com/baihelahusain/YourRepo/main/wave.svg)
+
 
 <!--
 **baihelahusain/baihelahusain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
