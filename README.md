@@ -1,5 +1,14 @@
 ## Hi there 👋 I'm Baihela Hussain!
 
+---
+<a href="https://github.com/baihelahusain/baihelahusain">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/baihelahusain/baihelahusain/main/dark_mode.svg">
+    <img alt="Baihela Husain's GitHub Profile README" src="https://raw.githubusercontent.com/baihelahusain/baihelahusain/main/light_mode.svg">
+  </picture>
+</a>
+---
+
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=F7A91B&width=435&lines=Welcome+to+my+GitHub+Profile!;I+love+coding+and+AI.;)
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Krushnal121/Krushnal121/output/github-contribution-grid-snake-dark.svg">
