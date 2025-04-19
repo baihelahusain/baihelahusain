@@ -7,6 +7,9 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Krushnal121/Krushnal121/output/github-contribution-grid-snake.svg" width=100%>
 </picture>
 
+## 📂 Portfolio
+Welcome to my professional portfolio, where I showcase my latest web applications, open‑source contributions, and data‑driven projects.  
+🌐 Explore my work ➔ [baihelahusain-app.vercel.app](https://baihelahusain-app.vercel.app/)
 
 ## 🛠️ Tech Stack
 
