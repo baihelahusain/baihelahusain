@@ -8,8 +8,8 @@
 </picture>
 
 ## 📂 Portfolio
-** Welcome to my professional portfolio, where I showcase my latest web applications, open‑source contributions, and data‑driven projects.  
-** 🌐 Explore my work ➔ [baihelahusain-app.vercel.app](https://baihelahusain-app.vercel.app/)
+**Welcome to my professional portfolio, where I showcase my latest web applications, open‑source contributions, and data‑driven projects.**
+**🌐 Explore my work ➔ [baihelahusain-app.vercel.app](https://baihelahusain-app.vercel.app/)**
 
 ## 🛠️ Tech Stack
 
