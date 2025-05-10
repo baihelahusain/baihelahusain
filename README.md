@@ -14,37 +14,16 @@
 
 ## 🛠️ Tech Stack
 
-<h2 align="left">👨‍💻 Programming Languages:</h2>
-<p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,javascript,cpp&titles=true" alt="Programming Languages">
-</p>
+| Category                          | Technologies                                                                                                                                                 |
+|----------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 👨‍💻 Programming Languages       | ![Python](https://go-skill-icons.vercel.app/api/icons?i=python&titles=true) ![JavaScript](https://go-skill-icons.vercel.app/api/icons?i=javascript&titles=true) ![C++](https://go-skill-icons.vercel.app/api/icons?i=cpp&titles=true) |
+| 💾 Databases                     | ![MySQL](https://go-skill-icons.vercel.app/api/icons?i=mysql&titles=true) ![PostgreSQL](https://go-skill-icons.vercel.app/api/icons?i=postgres&titles=true) ![SQLite](https://go-skill-icons.vercel.app/api/icons?i=sqlite&titles=true) ![MongoDB](https://go-skill-icons.vercel.app/api/icons?i=mongodb&titles=true) ![Oracle](https://go-skill-icons.vercel.app/api/icons?i=oracle&titles=true) |
+| 🛠️ Tools & Frameworks           | ![Git](https://go-skill-icons.vercel.app/api/icons?i=git&titles=true) ![GitHub](https://go-skill-icons.vercel.app/api/icons?i=github&titles=true) ![PyCharm](https://go-skill-icons.vercel.app/api/icons?i=pycharm&titles=true) ![VSCode](https://go-skill-icons.vercel.app/api/icons?i=vscode&titles=true) ![Jupyter](https://go-skill-icons.vercel.app/api/icons?i=jupyter&titles=true) ![Docker](https://go-skill-icons.vercel.app/api/icons?i=docker&titles=true) ![Canva](https://go-skill-icons.vercel.app/api/icons?i=canva&titles=true) |
+| ☁️ Cloud Platforms               | ![AWS](https://skillicons.dev/icons?i=aws) ![GCP](https://skillicons.dev/icons?i=gcp) ![Azure](https://skillicons.dev/icons?i=azure) ![Salesforce](https://skillicons.dev/icons?i=salesforce) |
+| 🤖 Data Science & Machine Learning | ![TensorFlow](https://go-skill-icons.vercel.app/api/icons?i=tensorflow&titles=true) ![NumPy](https://go-skill-icons.vercel.app/api/icons?i=numpy&titles=true) ![Matplotlib](https://go-skill-icons.vercel.app/api/icons?i=matplotlib&titles=true) ![Pandas](https://go-skill-icons.vercel.app/api/icons?i=pandas&titles=true) ![Seaborn](https://go-skill-icons.vercel.app/api/icons?i=seaborn&titles=true) ![Scikit-learn](https://go-skill-icons.vercel.app/api/icons?i=scikit&titles=true) |
+| 🌐 Web Development               | ![HTML](https://go-skill-icons.vercel.app/api/icons?i=html&titles=true) ![CSS](https://go-skill-icons.vercel.app/api/icons?i=css&titles=true) ![Bootstrap](https://go-skill-icons.vercel.app/api/icons?i=bootstrap&titles=true) ![Django](https://go-skill-icons.vercel.app/api/icons?i=django&titles=true) ![Flask](https://go-skill-icons.vercel.app/api/icons?i=flask&titles=true) |
 
-
-<h2 align="left">💾 Databases:</h2>
-<p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,postgres,sqlite,mongodb,oracle&titles=true" alt="Databases">
-</p>
-
-
-<h2 align="left">🛠️ Tools & Frameworks:</h2>
-<p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,pycharm,vscode,jupyter,docker,canva&titles=true" alt="Tools & Frameworks">
-</p>
-
-<h2 align="left">☁️ Cloud Platforms:</h2>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,salesforce&titles=true" alt="Cloud Platforms">
-</p>
-
-<h2 align="left">🤖 Data Science & Machine Learning:</h2>
-<p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=tensorflow,numpy,matplotlib,pandas,seaborn,scikit&titles=true" alt="Data Science & Machine Learning">
-</p>
-
-<h2 align="left">🌐 Web Development:</h2>
-<p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,bootstrap,django,flask&titles=true" alt="Web Development">
-</p>
+---
 
 ## 📊 GitHub Stats:
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=baihelahusain&show_icons=true&theme=radical)
