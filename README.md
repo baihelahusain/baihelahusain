@@ -12,25 +12,7 @@
 
 ---
 
-## 🧠 Tech Stack Snapshot
 
-### 👨‍💻 Languages  
-<img src="https://go-skill-icons.vercel.app/api/icons?i=python,javascript,cpp&titles=true" />
-
-### 💾 Databases  
-<img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,sqlite,mongodb&titles=true" />
-
-### 🛠️ Tools & IDEs  
-<img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,vscode,pycharm,jupyter,docker,canva&titles=true" />
-
-### ☁️ Cloud  
-<img src="https://skillicons.dev/icons?i=aws,gcp,salesforce" />
-
-### 🤖 ML & Data  
-<img src="https://go-skill-icons.vercel.app/api/icons?i=tensorflow,numpy,pandas,seaborn,matplotlib,scikit&titles=true" />
-
-### 🌐 Web Dev  
-<img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,django,flask&titles=true" />
 
 
 ---
