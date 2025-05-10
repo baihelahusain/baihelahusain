@@ -1,9 +1,9 @@
 ## Hi there 👋 I'm Baihela Hussain!
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=F7A91B&width=435&lines=Welcome+to+my+GitHub+Profile!;I+love+coding+and+AI.;)
+
 ![MasterHead](https://user-images.githubusercontent.com/67194519/173735367-b75edb3b-61ec-4323-a10f-5d98e1d7b97a.gif)
 
-<h1 align="center"><img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" width="100px"></h1>
 
 
 ## 📂 Portfolio
