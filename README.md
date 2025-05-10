@@ -5,8 +5,6 @@
 
 <h1 align="center"><img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" width="100px"></h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&size=100&pause=1000&color=black&center=true&vCenter=true&width=2000&height=200&lines=I+am+Baihela+Husain;Data+Scientist;CODING;AIML)](https://git.io/typing-svg)
-
 
 ## 📂 Portfolio
 ### **Welcome to my professional portfolio, where I showcase my latest web applications, open‑source contributions, and data‑driven projects.**
