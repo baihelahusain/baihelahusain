@@ -12,78 +12,25 @@
 
 ---
 
-## ⚙️ Tech Arsenal
+## 🧠 Tech Stack Snapshot
 
-<table align="left">
-  <tr>
-    <td align="left">
-      <h3><img src="./assets/icons/code-solid.svg" width="20"/> Languages</h3>
-      <div>
-        <img src="./assets/icons/python.svg" alt="Python" width="50"/> &nbsp;
-        <img src="./assets/icons/c-plusplus.svg" alt="C++" width="50"/> &nbsp;
-        <img src="./assets/icons/javascript.svg" alt="JavaScript" width="50"/>
-      </div>
-    </td>
-    <td align="left">
-      <h3><img src="./assets/icons/web.svg" width="20"/> Web Development</h3>
-      <div>
-        <img src="./assets/icons/html.svg" alt="HTML" width="50"/> &nbsp;
-        <img src="./assets/icons/css.svg" alt="CSS" width="50"/> &nbsp;
-        <img src="./assets/icons/django.svg" alt="Django" width="50"/> &nbsp;
-        <img src="./assets/icons/flask.svg" alt="Flask" width="50"/>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td align="left">
-      <h3><img src="./assets/icons/brain-cog.svg" width="20"/> Machine Learning</h3>
-      <div>
-        <img src="./assets/icons/tensorflow-icon.svg" alt="TensorFlow" width="50"/> &nbsp;
-        <img src="./assets/icons/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="50"/> &nbsp;
-        <img src="./assets/icons/pytorch-icon.svg" alt="PyTorch" width="50"/>
-      </div>
-    </td>
-    <td align="left">
-      <h3><img src="./assets/icons/data-science.svg" width="20"/> Data Science</h3>
-      <div>
-        <img src="./assets/icons/numpy-svgrepo-com.svg" alt="NumPy" width="50"/> &nbsp;
-        <img src="./assets/icons/Pandas_mark.svg" alt="Pandas" width="50"/> &nbsp;
-        <img src="./assets/icons/Matplotlib_icon.svg" alt="Matplotlib" width="50"/> &nbsp;
-        <img src="./assets/icons/logo-mark-lightbg.svg" alt="Seaborn" width="50"/>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td align="left">
-      <h3><img src="./assets/icons/database.svg" width="20"/> Databases</h3>
-      <div>
-        <img src="./assets/icons/mysql.svg" alt="MySQL" width="50"/> &nbsp;
-        <img src="./assets/icons/sqlite.svg" alt="SQLite" width="50"/> &nbsp;
-        <img src="./assets/icons/mongodb.svg" alt="MongoDB" width="50"/>
-      </div>
-    </td>
-    <td align="left">
-      <h3><img src="./assets/icons/cloud.svg" width="20"/> Cloud</h3>
-      <div>
-        <img src="./assets/icons/aws.svg" alt="AWS" width="50"/> &nbsp;
-        <img src="./assets/icons/gcp.svg" alt="GCP" width="50"/> &nbsp;
-        <img src="./assets/icons/salesforce.svg" alt="Salesforce" width="50"/>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="left">
-      <h3><img src="./assets/icons/tools.svg" width="20"/> Dev Tools</h3>
-      <div>
-        <img src="./assets/icons/git.svg" alt="Git" width="50"/> &nbsp;
-        <img src="./assets/icons/github.svg" alt="GitHub" width="50"/> &nbsp;
-        <img src="./assets/icons/docker.svg" alt="Docker" width="50"/> &nbsp;
-        <img src="./assets/icons/jupyter.svg" alt="Jupyter" width="50"/> &nbsp;
-        <img src="./assets/icons/canva.svg" alt="Canva" width="50"/>
-      </div>
-    </td>
-  </tr>
-</table>
+### 👨‍💻 Languages  
+<img src="https://go-skill-icons.vercel.app/api/icons?i=python,javascript,cpp&titles=true" />
+
+### 💾 Databases  
+<img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,sqlite,mongodb&titles=true" />
+
+### 🛠️ Tools & IDEs  
+<img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,vscode,pycharm,jupyter,docker,canva&titles=true" />
+
+### ☁️ Cloud  
+<img src="https://skillicons.dev/icons?i=aws,gcp,salesforce" />
+
+### 🤖 ML & Data  
+<img src="https://go-skill-icons.vercel.app/api/icons?i=tensorflow,numpy,pandas,seaborn,matplotlib,scikit&titles=true" />
+
+### 🌐 Web Dev  
+<img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,django,flask&titles=true" />
 
 
 ---
