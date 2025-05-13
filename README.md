@@ -20,11 +20,8 @@
       <h2><img src="./assets/icons/code-solid.svg" width="20" height="20"/> Languages</h2>
       <div>
         <img src="./assets/icons/python.svg" alt="Python" width="50" height="50" />&nbsp;&nbsp;
-        <img src="./assets/icons/icons8-c.svg" alt="C" width="50" height="50" />&nbsp;&nbsp;
         <img src="./assets/icons/c-plusplus.svg" alt="C++" width="50" height="50" />&nbsp;&nbsp;
         <img src="./assets/icons/javascript.svg" alt="JavaScript" width="50" height="50" />&nbsp;&nbsp;
-        <img src="./assets/icons/typescript.svg" alt="TypeScript" width="50" height="50" />&nbsp;&nbsp;
-        <img src="./assets/icons/icons8-java.svg" alt="Java" width="50" height="50" />
       </div>
     </td>
     <td align="left">
@@ -71,7 +68,6 @@
     <td align="left">
       <h3><img src="./assets/icons/database.svg" width="20" height="20"/> Databases</h3>
       <div>
-        <img src="./assets/icons/postgresql.svg" alt="PostgreSQL" width="50" height="50" />&nbsp;&nbsp;
         <img src="./assets/icons/mongodb.svg" alt="MongoDB" width="50" height="50" />&nbsp;&nbsp
       </div>
     </td>
