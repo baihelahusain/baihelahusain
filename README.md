@@ -29,8 +29,6 @@
       <div>
         <img src="./assets/icons/icons8-css.svg" alt="CSS" width="50" height="50" />&nbsp;&nbsp;
         <img src="./assets/icons/icons8-html.svg" alt="HTML" width="50" height="50" />&nbsp;&nbsp;
-        <img src="./assets/icons/icons8-angular.svg" alt="Angular" width="50" height="50" />&nbsp;&nbsp;
-        <img src="./assets/icons/icons8-svelte.svg" alt="Svelte" width="50" height="50" />&nbsp;&nbsp;
         <img src="./assets/icons/icons8-tailwind-css.svg" alt="Tailwind CSS" width="50" height="50" />&nbsp;&nbsp;
       </div>
     </td>
@@ -41,7 +39,6 @@
       <div>
         <img src="./assets/icons/django.svg" alt="Django" width="50" height="50" />&nbsp;&nbsp;
         <img src="./assets/icons/fastapi.svg" alt="FastAPI" width="50" height="50" />&nbsp;&nbsp;
-        <img src="./assets/icons/spring.svg" alt="Spring" width="50" height="50" />&nbsp;&nbsp;
       </div>
     </td>
     <td align="left">
