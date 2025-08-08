@@ -29,7 +29,7 @@
       <div>
         <img src="./assets/icons/icons8-css.svg" alt="CSS" width="50" height="50" />&nbsp;&nbsp;
         <img src="./assets/icons/icons8-html.svg" alt="HTML" width="50" height="50" />&nbsp;&nbsp;
-        <img src="./assets/icons/icons8-tailwind-css.svg" alt="Tailwind CSS" width="50" height="50" />&nbsp;&nbsp;
+        <!--img src="./assets/icons/icons8-tailwind-css.svg" alt="Tailwind CSS" width="50" height="50" />&nbsp;&nbsp;-->
       </div>
     </td>
   </tr>
@@ -44,7 +44,7 @@
     <td align="left">
       <h3><img src="./assets/icons/brain-cog.svg" width="20" height="20"/> ML/AI</h3>
       <div>
-        <img src="./assets/icons/pytorch-icon.svg" alt="PyTorch" width="50" height="50" />&nbsp;&nbsp;
+        <!--img src="./assets/icons/pytorch-icon.svg" alt="PyTorch" width="50" height="50" />&nbsp;&nbsp;-->
         <img src="./assets/icons/tensorflow-icon.svg" alt="TensorFlow" width="50" height="50" />&nbsp;&nbsp;
         <img src="./assets/icons/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="50" height="50" />&nbsp;&nbsp;
         <img src="./assets/icons/stable.png" alt="Stable Diffusion" width="50" height="50" />&nbsp;&nbsp;
@@ -57,7 +57,7 @@
       <div>
         <img src="./assets/icons/numpy-svgrepo-com.svg" alt="NumPy" width="50" height="50" />&nbsp;&nbsp;
         <img src="./assets/icons/Pandas_mark.svg" alt="Pandas" width="50" height="50" />&nbsp;&nbsp;
-        <img src="./assets/icons/SCIPY_2.svg" alt="SciPy" width="50" height="50" />&nbsp;&nbsp;
+        <!-- img src="./assets/icons/SCIPY_2.svg" alt="SciPy" width="50" height="50" />&nbsp;&nbsp;-->
         <img src="./assets/icons/logo-mark-lightbg.svg" alt="Seaborn" width="50" height="50" />&nbsp;&nbsp;
         <img src="./assets/icons/Matplotlib_icon.svg" alt="Matplotlib" width="50" height="50" />&nbsp;&nbsp;
       </div>
@@ -65,7 +65,7 @@
     <td align="left">
       <h3><img src="./assets/icons/database.svg" width="20" height="20"/> Databases</h3>
       <div>
-        <img src="./assets/icons/mongodb.svg" alt="MongoDB" width="50" height="50" />&nbsp;&nbsp
+          <img src="./assets/icons/mysql.svg" alt="MySQL" width="50" height="50" />&nbsp;
       </div>
     </td>
   </tr>
@@ -103,12 +103,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on Drug Interaction and Side Effect Predictor ( Data Science Project) ...
+- 🌱 I’m currently learning TensorFlow...
+- 💬 Ask me about Django, Data Science or ML ...
+- 📫 How to reach me: LinkedIn ...
 -->
