@@ -39,6 +39,7 @@
       <div>
         <img src="./assets/icons/django.svg" alt="Django" width="50" height="50" />&nbsp;&nbsp;
         <img src="./assets/icons/fastapi.svg" alt="FastAPI" width="50" height="50" />&nbsp;&nbsp;
+        <img src="./assets/icons/flask1.svg" alt="Flask" width="50" height="50" />&nbsp;&nbsp;
       </div>
     </td>
     <td align="left">
@@ -65,7 +66,7 @@
     <td align="left">
       <h3><img src="./assets/icons/database.svg" width="20" height="20"/> Databases</h3>
       <div>
-          <img src="./assets/icons/mysql.svg" alt="MySQL" width="50" height="50" />&nbsp;
+          <img src="./assets/icons/mysql.svg" alt="MySQL" width="50" height="50" />&nbsp;&nbsp;
       </div>
     </td>
   </tr>
@@ -77,6 +78,7 @@
         <img src="./assets/icons/linux.svg" alt="Linux" width="50" height="50" />&nbsp;&nbsp;
         <img src="./assets/icons/git.svg" alt="Git" width="50" height="50" />&nbsp;&nbsp;
         <img src="./assets/icons/github.svg" alt="GitHub" width="50" height="50" />&nbsp;&nbsp;
+        <img src="./assets/icons/aws.svg" alt="AWS" width="50" height="50" />&nbsp;&nbsp;
       </div>
     </td>
   </tr>
