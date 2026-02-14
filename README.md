@@ -14,7 +14,7 @@
 
 ## Tech Arsenal
 
-<table align="left">
+/*<table align="left">
   <tr>
     <td align="left">
       <h2><img src="./assets/icons/code-solid.svg" width="20" height="20"/> Languages</h2>
@@ -83,7 +83,7 @@
     </td>
   </tr>
 </table>
-
+*/
 
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=baihelahusain&show_icons=true&theme=radical)
